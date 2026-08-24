@@ -1,3 +1,6 @@
 Git day 1
 오늘 Github Desktop을 설치하고
 Repository를 Clone했다.
+
+Commit = 변경 내용을 기록
+Push = 로컬 Commit을 Github에 업로드
