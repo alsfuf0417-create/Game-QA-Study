@@ -1,0 +1,3 @@
+Git day 1
+오늘 Github Desktop을 설치하고
+Repository를 Clone했다.
