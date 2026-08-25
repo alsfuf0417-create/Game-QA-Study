@@ -4,3 +4,5 @@ Repository를 Clone했다.
 
 Commit = 변경 내용을 기록
 Push = 로컬 Commit을 Github에 업로드
+
+Git Day 2 - Fetch와 Pull 공부 시작
