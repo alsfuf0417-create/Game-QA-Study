@@ -1,1 +1,1 @@
-Potion price: 1000
+Potion price: 1500
